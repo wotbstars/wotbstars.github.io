@@ -2,9 +2,8 @@ img {border: none; }
 
 body {
     font-family: Verdana, Arial, sans-serif;
-    font-size: 1.2em;
     font-stretch: normal;
-	background: white url(https://wotbstars.github.io/lj/lj-friends.jpg);
+    background: white url(https://wotbstars.github.io/lj/lj-friends.jpg);
 }
 
 td,p,tr{       
@@ -68,7 +67,7 @@ img
             font-stretch: normal;}
 
 .user_info_item{ 
-                 font-family: Verdana, Arial, sans-serif; font-size: 12px;}
+                 font-family: Verdana, Arial, sans-serif; font-size: 1.2em;}
 
 .friend_subject{ font-family: Verdana, Arial, sans-serif;
                  font-size: 1.2em;
