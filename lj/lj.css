@@ -117,8 +117,8 @@ a{ text-decoration: underline;
 
 
                         
-.logic_box_text{ font-family: Verdana, Arial, sans-serif; 
-                 font-size: 1em; 
+.logic_box_text{ font-family: 'Open Sans', Verdana, Arial, sans-serif; 
+                 font-size: 30px; 
                  font-weight: normal; 
                  text-align: justify}
                  
