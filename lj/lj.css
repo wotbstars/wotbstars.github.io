@@ -3,30 +3,30 @@ img {border: none; }
 body {
 	background: white url(https://wotbstars.github.io/lj/lj.jpg);
 	font-family: Verdana, Arial, sans-serif;
-    font-size: 12px;
+    font-size: 1em;
     font-stretch: normal;
 }
 a{ text-decoration: underline;
                  color: #11AA00;
                  font-family: Verdana, Arial, sans-serif;
-                 font-size: 12px;
+                 font-size: 1em;
                  font-weight: bold; }
                      
                         
 .url_link { text-decoration: none;
             color: #ffcc00;
             font-family: Verdana, Arial, sans-serif;
-            font-size: 12px;
+            font-size: 1em;
             font-weight: bold; }
             
 .url_link_black { text-decoration: underline;
             color: #ffcc00;
             font-family: Verdana, Arial, sans-serif;
-            font-size: 12px;
+            font-size: 1em;
             font-weight: bold; }
             
 .user_info{ font-family: Verdana, Arial, sans-serif;
-            font-size: 12px;
+            font-size: 1em;
             border: 1px solid #000000;
             border-style: solid;
             margin: 0pt;
@@ -51,7 +51,7 @@ a{ text-decoration: underline;
                  font-family: Verdana, Arial, sans-serif; font-size: 12px;}
 
 .friend_subject{ font-family: Verdana, Arial, sans-serif;
-                 font-size: 12px;
+                 font-size: 1em;
 		         font-family: verdana;
 		         font-style: normal;
 		         font-variant: normal;
@@ -61,7 +61,7 @@ a{ text-decoration: underline;
 		         font-stretch: normal;}
                              
 .logic_box{ font-family: Verdana, Arial, sans-serif;
-            font-size: 12px;
+            font-size: 1em;
             border: 1px solid #000000;
             border-style: solid;
             margin: 0pt;
@@ -83,7 +83,7 @@ a{ text-decoration: underline;
             font-stretch: normal;}
 
 .gazeta{ font-family: Verdana, Arial, sans-serif;
-            font-size: 12px;
+            font-size: 1em;
             border: 1px solid #000000;
             border-style: solid;
             margin: 0pt;
@@ -118,12 +118,12 @@ a{ text-decoration: underline;
 
                         
 .logic_box_text{ font-family: Verdana, Arial, sans-serif; 
-                 font-size: 12px; 
+                 font-size: 1em; 
                  font-weight: normal; 
                  text-align: justify}
                  
 .logic_box_footer {font-family: Verdana, Arial, sans-serif; 
-                 font-size: 12px; 
+                 font-size: 1em; 
                  border-top-style: dotted;
                  line-height: 24px;
                  border-top-color: #000000;
@@ -132,7 +132,7 @@ a{ text-decoration: underline;
                  text-align: justify}
 
 .tdx{         font-family: Verdana, Arial, sans-serif;
-            font-size: 12px;
+            font-size: 1em;
             border: 1px solid #000000;
             border-style: solid;
             margin: 0pt;
@@ -143,7 +143,7 @@ a{ text-decoration: underline;
             font-style: normal;
             font-variant: normal;
             font-weight: normal;
-            font-size: 12px;
+            font-size: 1em;
             line-height: normal;
             filter:alpha(opacity=95);
 	    opacity: 0.95;
@@ -152,7 +152,7 @@ a{ text-decoration: underline;
             font-stretch: normal;}
 
 .thx{       font-family: Verdana, Arial, sans-serif;
-            font-size: 12px;
+            font-size: 1em;
             border: 1px solid #000000;
             border-style: solid;
             margin: 0pt;
@@ -163,7 +163,7 @@ a{ text-decoration: underline;
             font-style: normal;
             font-variant: normal;
             font-weight: bold;
-            font-size: 12px;
+            font-size: 1em;
             line-height: normal;
             filter:alpha(opacity=95);
 	        opacity: 0.95;
@@ -173,7 +173,7 @@ a{ text-decoration: underline;
             
 td,table,p,tr{       
                font-family: Verdana, Arial, sans-serif;
-               font-size: 12px;
+               font-size: 1em;
                font-stretch: normal;}
             
 
