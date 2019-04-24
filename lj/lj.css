@@ -48,7 +48,13 @@ a{ text-decoration: underline;
             font-stretch: normal;}
 
 .user_info_item{ 
-                 font-family: Verdana, Arial, sans-serif; font-size: 1.2em;}
+                 font-family: Verdana, Arial, sans-serif; font-size: 2em;}
+
+.moto {
+	font-family: Verdana, Arial, sans-serif; f
+	font-size: 2em;
+	color: gray;
+}
 
 .friend_subject{ font-family: Verdana, Arial, sans-serif;
                  font-size: 1em;
