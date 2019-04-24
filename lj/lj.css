@@ -12,6 +12,10 @@ a{ text-decoration: underline;
                  font-size: 1.2em;
                  font-weight: bold; }
                      
+.search_button {
+	font-family: Verdana, Arial, sans-serif;
+        font-size: 1.5em;
+}
                         
 .url_link { text-decoration: none;
             color: #ffcc00;
