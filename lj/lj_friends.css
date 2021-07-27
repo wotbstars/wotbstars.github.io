@@ -4,6 +4,7 @@ body {
     font-family: Verdana, Arial, sans-serif;
     font-stretch: normal;
     background: white url(https://wotbstars.github.io/lj/lj-friends.jpg);
+    font-size: 30px;
 }
 
 td,p,tr{       
