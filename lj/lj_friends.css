@@ -4,25 +4,25 @@ body {
     font-family: Verdana, Arial, sans-serif;
     font-stretch: normal;
     background: white url(https://wotbstars.github.io/lj/lj-friends.jpg);
-    font-size: 30px;
+    font-size: 25px;
 }
 
 td,p,tr{       
                font-family: Verdana, Arial, sans-serif;
-               font-size: 30px;
+               font-size: 25px;
                font-stretch: normal;
                vertical-align: middle;}
                
 table{       
                font-family: Verdana, Arial, sans-serif;
-               font-size: 30px;
+               font-size: 25px;
                font-stretch: normal;
                vertical-align: middle;}
                            
 a{ text-decoration: underline;
                  color: #11AA00;
                  font-family: Verdana, Arial, sans-serif;
-                 font-size: 30px;
+                 font-size: 25px;
                  font-weight: bold; }
                      
 img
@@ -37,17 +37,17 @@ img
 .url_link { text-decoration: none;
             color: #ffcc00;
             font-family: Verdana, Arial, sans-serif;
-            font-size: 30px;
+            font-size: 25px;
             font-weight: bold; }
             
 .url_link_black { text-decoration: underline;
             color: #ffcc00;
             font-family: Verdana, Arial, sans-serif;
-            font-size: 30px;
+            font-size: 25px;
             font-weight: bold; }
             
 .user_info{ font-family: Verdana, Arial, sans-serif;
-            font-size: 30px;
+            font-size: 25px;
             border: 1px solid #6699cc;
             border-style: solid;
             margin: 0pt;
@@ -70,7 +70,7 @@ img
                  font-family: Verdana, Arial, sans-serif; font-size: 30px;}
 
 .friend_subject{ font-family: Verdana, Arial, sans-serif;
-                 font-size: 30px;
+                 font-size: 25px;
 		         font-family: verdana;
 		         font-style: normal;
 		         font-variant: normal;
@@ -79,7 +79,7 @@ img
 		         font-stretch: normal;}
                              
 .logic_box{ font-family: Verdana, Arial, sans-serif;
-            font-size: 30px;
+            font-size: 25px;
             border: 1px solid #6699cc;
             border-style: solid;
             margin-left: auto; margin-right: auto;
@@ -111,27 +111,27 @@ img
 	         opacity: 0.95;
 	         -moz-opacity:0.95;  
                  font-family: Verdana, Arial, sans-serif; 
-                 font-size: 30px; 
+                 font-size: 25px; 
                  font-weight: bold;}
 
 
                         
 .logic_box_text{ font-family: Verdana, Arial, sans-serif; 
-                 font-size: 30px;
+                 font-size: 25px;
                  font-weight: normal; 
                  text-align: justify}
                  
 .logic_box_footer {font-family: Verdana, Arial, sans-serif; 
-                 font-size: 30px; 
+                 font-size: 25px; 
                  border-top-style: dotted;
-                 line-height: 24px;
+                 line-height: 34px;
                  border-top-color: #6699cc;
                  border-top-width: 1px;
                  font-weight: normal; 
                  text-align: justify}
 
 .tdx{         font-family: Verdana, Arial, sans-serif;
-            font-size: 30px;
+            font-size: 25px;
             border: 1px solid #000000;
             border-style: solid;
             margin: 0pt;
@@ -150,7 +150,7 @@ img
             font-stretch: normal;}
 
 .thx{         font-family: Verdana, Arial, sans-serif;
-            font-size: 1.4em;
+            font-size: 25px;
             border: 1px solid #000000;
             border-style: solid;
             margin: 0pt;
